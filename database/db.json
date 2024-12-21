@@ -1,0 +1,152 @@
+{
+    "plates": [
+      {
+        "categories": [
+          {
+            "coffes": [
+              {
+                "id": 1,
+                "photo": "https://coffee.alexflipnote.dev/random",
+                "title": "Espresso",
+                "footage": "50ml",
+                "price": 5.00,
+                "description": "Café puro, servido em uma dose concentrada.",
+                "category": "Coffes"
+              },
+              {
+                "id": 2,
+                "photo": "https://coffee.alexflipnote.dev/random",
+                "title": "Cappuccino",
+                "footage": "200ml",
+                "price": 8.50,
+                "description": "Café com leite vaporizado e espuma de leite.",
+                "category": "Coffes"
+              },
+              {
+                "id": 3,
+                "photo": "https://coffee.alexflipnote.dev/random",
+                "title": "Latte",
+                "footage": "300ml",
+                "price": 9.00,
+                "description": "Café espresso com bastante leite vaporizado.",
+                "category": "Coffes"
+              },
+              {
+                "id": 4,
+                "photo": "https://coffee.alexflipnote.dev/random",
+                "title": "Mocha",
+                "footage": "250ml",
+                "price": 10.00,
+                "description": "Café com chocolate quente, leite vaporizado e chantilly.",
+                "category": "Coffes"
+              },
+              {
+                "id": 5,
+                "photo": "https://coffee.alexflipnote.dev/random",
+                "title": "Americano",
+                "footage": "300ml",
+                "price": 6.50,
+                "description": "Café espresso diluído em água quente.",
+                "category": "Coffes"
+              }
+            ],
+            "pies": [
+              {
+                "id": 6,
+                "photo": "https://coffee.alexflipnote.dev/random",
+                "title": "Torta de Maçã",
+                "footage": "150g",
+                "price": 12.00,
+                "description": "Deliciosa torta de maçã com massa crocante.",
+                "category": "Pies"
+              },
+              {
+                "id": 7,
+                "photo": "https://coffee.alexflipnote.dev/random",
+                "title": "Torta de Limão",
+                "footage": "160g",
+                "price": 14.00,
+                "description": "Torta de limão com base de biscoito e cobertura cremosa.",
+                "category": "Pies"
+              },
+              {
+                "id": 8,
+                "photo": "https://coffee.alexflipnote.dev/random",
+                "title": "Torta de Chocolate",
+                "footage": "180g",
+                "price": 15.00,
+                "description": "Torta de chocolate com recheio cremoso e cobertura crocante.",
+                "category": "Pies"
+              },
+              {
+                "id": 9,
+                "photo": "https://coffee.alexflipnote.dev/random",
+                "title": "Torta de Queijo",
+                "footage": "150g",
+                "price": 13.00,
+                "description": "Torta salgada recheada com queijo cremoso.",
+                "category": "Pies"
+              },
+              {
+                "id": 10,
+                "photo": "https://coffee.alexflipnote.dev/random",
+                "title": "Torta de Banana",
+                "footage": "170g",
+                "price": 11.50,
+                "description": "Torta de banana caramelizada com toque de canela.",
+                "category": "Pies"
+              }
+            ],
+            "snack": [
+              {
+                "id": 11,
+                "photo": "https://coffee.alexflipnote.dev/random",
+                "title": "Pão de Queijo",
+                "footage": "50g",
+                "price": 3.50,
+                "description": "Tradicional pão de queijo brasileiro, crocante por fora e macio por dentro.",
+                "category": "Snack"
+              },
+              {
+                "id": 12,
+                "photo": "https://coffee.alexflipnote.dev/random",
+                "title": "Sanduíche Natural",
+                "footage": "150g",
+                "price": 9.00,
+                "description": "Sanduíche leve com alface, tomate, queijo e peito de peru.",
+                "category": "Snack"
+              },
+              {
+                "id": 13,
+                "photo": "https://coffee.alexflipnote.dev/random",
+                "title": "Croissant",
+                "footage": "80g",
+                "price": 7.00,
+                "description": "Croissant amanteigado e assado na perfeição.",
+                "category": "Snack"
+              },
+              {
+                "id": 14,
+                "photo": "https://coffee.alexflipnote.dev/random",
+                "title": "Sanduíche de Presunto e Queijo",
+                "footage": "130g",
+                "price": 8.50,
+                "description": "Sanduíche clássico com presunto e queijo derretido.",
+                "category": "Snack"
+              },
+              {
+                "id": 15,
+                "photo": "https://coffee.alexflipnote.dev/random",
+                "title": "Quiche de Espinafre",
+                "footage": "200g",
+                "price": 10.00,
+                "description": "Quiche de espinafre e queijo em uma base crocante.",
+                "category": "Snack"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+  
